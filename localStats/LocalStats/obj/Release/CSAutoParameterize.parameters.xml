@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="bdContext-Web.config Connection String" description="bdContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Movies.mdf;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Visual\ Studio\ 2012\\Projects\\LocalStats\\LocalStats\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bdContext']/@connectionString" />
+  </parameter>
+  <parameter name="bdContext_DatabasePublish-Web.config Connection String" description="bdContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="bdContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Visual\ Studio\ 2012\\Projects\\LocalStats\\LocalStats\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bdContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/Localstats" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Visual\ Studio\ 2012\\Projects\\LocalStats\\LocalStats\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Visual\ Studio\ 2012\\Projects\\LocalStats\\LocalStats\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="bdContext-Web.config Connection String" description="" value="Data Source=(LocalDB)\v11.0;AttachDbFilename=&quot;D:\Visual Studio 2012\Projects\LocalStats\LocalStats\App_Data\Movies.mdf&quot;;Integrated Security=True;Connect Timeout=30" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Visual\ Studio\ 2012\\Projects\\LocalStats\\LocalStats\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bdContext']/@connectionString" />
+  </parameter>
+</parameters>
