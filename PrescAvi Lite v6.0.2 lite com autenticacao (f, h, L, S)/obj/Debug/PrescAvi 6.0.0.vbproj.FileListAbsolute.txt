@@ -1,0 +1,31 @@
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe.config
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\basededados.mdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\pvp.mdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.application
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.vbprojResolveAssemblyReference.cache
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.abrir.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.bd.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form2.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.cnpem.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.EC.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.EP.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form1.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form3.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.FormNoCode.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Resources.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.repovoar.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.vbproj.GenerateResource.Cache
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.TrustInfo.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.application
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0 lite\bin\Debug\PrescAvi 6.0.0.exe.config
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0 lite\obj\Debug\PrescAvi 6.0.0.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0 lite\obj\Debug\PrescAvi 6.0.0.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0 lite\obj\Debug\PrescAvi 6.0.0.pdb

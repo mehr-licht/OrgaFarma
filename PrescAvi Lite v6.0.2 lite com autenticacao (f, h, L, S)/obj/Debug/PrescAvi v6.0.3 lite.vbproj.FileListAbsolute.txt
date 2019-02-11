@@ -1,0 +1,17 @@
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi_1._0._0.Form1.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi_1._0._0.Resources.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi_1._0._0.progressao.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0.3 lite.vbproj.GenerateResource.Cache
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\basededados.mdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.exe.config
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.application
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.TrustInfo.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.0.2 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.application

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrescAvi6.0.0
+</name>
+</assembly>
+<members>
+<member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.infarmedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.basededadosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSet.pvpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSet.pvpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSet.pvpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSetTableAdapters.pvpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.pvpDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.pvpDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.pvpDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.pvpDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.pvpDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.infarmedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.basededadosDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:PrescAvi_1._0._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PrescAvi_1._0._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

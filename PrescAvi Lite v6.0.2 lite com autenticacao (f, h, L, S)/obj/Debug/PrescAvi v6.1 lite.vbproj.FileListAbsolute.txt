@@ -1,0 +1,5 @@
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.1 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.0 lite.exe.config
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.1 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.1 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.1 lite com autenticacao (f, h, L, S)\obj\Debug\PrescAvi v6.0 lite.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi v6.1 lite com autenticacao (f, h, L, S)\bin\Debug\PrescAvi v6.1 lite.exe.config
