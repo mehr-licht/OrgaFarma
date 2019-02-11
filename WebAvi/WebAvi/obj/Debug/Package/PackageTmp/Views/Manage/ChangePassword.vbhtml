@@ -1,0 +1,59 @@
+﻿@ModelType ChangePasswordViewModel
+@Code
+    ViewBag.Title = "Mudar a palavra passe"
+End Code
+
+<h2>@ViewBag.Title.</h2>
+
+@Using Html.BeginForm("ChangePassword", "Manage", FormMethod.Post, New With { .class = "form-horizontal", .role = "form" })
+    @Html.AntiForgeryToken()
+    
+    @<text>
+    <h4>Altere a palavra passe</h4>
+    <hr />
+    @Html.ValidationSummary("", New With { .class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(Function(m) m.OldPassword, New With { .class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(Function(m) m.OldPassword, New With { .class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(Function(m) m.NewPassword, New With {.class = "col-md-2 control-label"})
+        <div class="col-md-10">
+            @Html.PasswordFor(Function(m) m.NewPassword, New With {.class = "form-control"})
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(Function(m) m.ConfirmPassword, New With { .class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(Function(m) m.ConfirmPassword, New With { .class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="alterar" class="btn btn-default" />
+        </div>
+    </div>
+    </text>
+End Using
+<style>
+    BODY {
+        background-color: cadetblue;
+    }
+
+
+        body input[class='form-control'] {
+            background-color: lightblue;
+            color: black;
+            font-family: Verdana;
+            font-language-override: "PT";
+            border: 2px solid #456879;
+            border-radius: 10px;
+            text-align: center;
+        }
+</style>
+
+@Section Scripts
+    @Scripts.Render("~/bundles/jqueryval")
+End Section

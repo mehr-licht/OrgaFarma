@@ -1,0 +1,238 @@
+﻿.dadospr{
+    width: 50px;
+    }
+.dadosport{
+    width: 75px;
+    }
+
+
+.selectpvp{
+    width: 75px;
+}
+
+input[type=radio] {
+		display:none;
+	}
+
+.pvplinhas{
+    background-color:lightblue;
+}
+
+.portlinhas{
+    background-color:lightblue;
+}
+
+
+input[type=radio] + label {
+		display:inline-block;
+		margin:-2px;
+		padding: 4px 12px;
+		margin-bottom: 0;
+		font-size: 14px;
+		line-height: 20px;
+		color: #333;
+		text-align: center;
+		text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+		vertical-align: middle;
+		cursor: pointer;
+		background-color: cadetblue;
+		/*background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+		background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+		background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+		background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+		background-image: linear-gradient(to bottom,#fff,#e6e6e6);*/
+		background-repeat: repeat-x;
+		/*border: 1px solid #ccc;
+		border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+		border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+		border-bottom-color: #b3b3b3;*/
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+		filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+		-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+		-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+		box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+        width: 60px;
+           border:1px solid #456879;
+          border-radius:10px;
+          border-color:#456879;
+          border-bottom-color:#456879;
+	}
+
+	 input[type=radio]:checked + label{
+		   background-image: none;
+		outline: 0;
+		-webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+		-moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+		box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+			background-color:lightblue;
+	}
+
+
+
+
+
+
+#semaforo{
+    height: 150px;
+    width: 150px;
+}
+
+ 
+   .btn {
+       visibility: hidden;
+   }
+
+   .coisas,
+   .mostrado{
+       color:black;
+   }
+
+ .btn{
+        border-color:black;
+           }
+
+    .btn:hover {
+        background: lightblue;
+    }
+
+    .btn:active {
+        background:  #456879;
+    }
+
+    .btn:visited {
+        background: darkblue;
+    }
+
+     
+    body input[class='textbox'] {
+        font-size: 24px;
+        font-weight:bold;
+        height: 48px;
+             background-color:lightblue;
+        color:black;
+        font-family:Verdana;
+        font-language-override: "PT";
+         border:2px solid #456879;
+	border-radius:10px;
+     text-align: center;
+
+            }
+
+    input[id^='p'] {
+        width: 150px;
+    }
+
+    input[id^='a'] {
+        width: 130px;
+    }
+
+    input[type="text"], textarea {
+          background-color : cadetblue; 
+          }
+    
+    BODY {background-color: cadetblue;}
+
+  
+
+
+   .reset {
+       visibility:hidden;
+       position:center;
+   }
+
+    input[type="button"]{
+        font-size: 16px;
+         font-weight:bold;
+               height: 32px;
+        width: 105px;
+         color:black;
+        background-color:silver;
+        font-family:Verdana;
+        font-language-override: "PT";
+        text-align: center;
+        vertical-align: middle;
+                border-color:black;
+    }
+
+
+ input[id^='labellinha'] {/*texto da linha*/
+       font-size: 10px;
+       color: black;
+     vertical-align: bottom;
+     width:570px;
+         }
+
+ .labellinhas{/*texto da linha*/
+     width: 570px;
+ }
+
+ 
+ .labellinha{/*div dotexto da linha*/
+     width:570px;
+ }
+
+
+#labeltotal0 {
+       font-size: 150px;
+       color: black;
+     font-weight: bold;
+     vertical-align: top;
+
+    }
+input[id^='totallinha'] {
+        width: 700px;
+}
+
+.totallinhas {
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    width: 650px;
+}
+
+
+
+/*text-shadow: #000 1px 1px 1px;
+       -webkit-font-smoothing: antialiased;*/
+   
+
+ .semaforo{
+     width: 100px;
+ }
+
+ .total{
+     width:50px;
+     border: 0px;
+     padding: 0px;
+     margin: 0px;
+     vertical-align:top;
+    
+ }
+
+ .linhas{
+     width: 650px;
+ }
+
+
+ .espaco{
+     width: 0px;
+ }
+
+ .aviados{
+     width:200px;
+ }
+
+ .prescritos{
+     width:130px;
+ }
+
+ .esquerda{
+width:200px;
+ }
+
+ .direita{
+width:850px;
+ }
+
+

@@ -1,0 +1,150 @@
+﻿
+
+
+
+
+
+
+ 
+   .btn {
+       visibility: hidden;
+   }
+
+   .coisas,
+   .mostrado{
+       color:black;
+   }
+
+ .btn{
+        border-color:black;
+           }
+
+    .btn:hover {
+        background: green;
+    }
+
+    .btn:active {
+        background: blue;
+    }
+
+    .btn:visited {
+        background: yellow;
+    }
+
+     
+    body input[class='textbox'] {
+        font-size: 24px;
+        font-weight:bold;
+        height: 48px;
+             background-color:lightblue;
+        color:black;
+        font-family:Verdana;
+        font-language-override: "PT";
+         border:2px solid #456879;
+	border-radius:10px;
+     text-align: center;
+
+            }
+
+    input[id^='p'] {
+        width: 150px;
+    }
+
+    input[id^='a'] {
+        width: 130px;
+    }
+
+    input[type="text"], textarea {
+          background-color : cadetblue; 
+          }
+    
+    BODY {background-color: cadetblue;}
+
+  
+
+
+   .reset {
+       visibility:hidden;
+       position:center;
+   }
+
+    input[type="button"]{
+        font-size: 16px;
+         font-weight:bold;
+               height: 32px;
+        width: 105px;
+         color:black;
+        background-color:silver;
+        font-family:Verdana;
+        font-language-override: "PT";
+        text-align: center;
+        vertical-align: middle;
+                border-color:black;
+    }
+
+
+ input[id^='labellinha'] {
+       font-size: 10px;
+       color: black;
+     vertical-align: bottom;
+         }
+
+
+#labeltotal0 {
+       font-size: 180px;
+       color: black;
+     font-weight: bold;
+     vertical-align: top;
+
+    }
+
+
+.totallinhas {
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+/*text-shadow: #000 1px 1px 1px;
+       -webkit-font-smoothing: antialiased;*/
+   
+
+ .semaforo{
+     width: 100px;
+ }
+
+ .total{
+     width:50px;
+     border: 0px;
+     padding: 0px;
+     margin: 0px;
+     vertical-align:top;
+ }
+
+ .linhas{
+     width: 600px;
+ }
+
+ .labellinha{
+     width: 400px;
+ }
+
+ .espaco{
+     width: 50px;
+ }
+
+ .aviados{
+     width:210px;
+ }
+
+ .prescritos{
+     width:130px;
+ }
+
+ .esquerda{
+width:250px;
+ }
+
+ .direita{
+width:800px;
+ }

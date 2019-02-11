@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:iyn1holp9e.database.windows.net,1433;Database=aspnet-WebAvi-20150924102428;User ID=marlene@iyn1holp9e;Password=sverige1@;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\marlene\\Documents\\Visual\ Studio\ 2015\\Projects\\para\ azure\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="bd-Web.config Connection String" description="bd Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:iyn1holp9e.database.windows.net,1433;Database=bd;User ID=marlene@iyn1holp9e;Password=sverige1@;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\marlene\\Documents\\Visual\ Studio\ 2015\\Projects\\para\ azure\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bd']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,410 @@
+/* General styles for all menus */
+.cbp-spmenu {
+	background: cadetblue; /*fundo de cada célula com texto*/
+	position: fixed;
+}
+
+.cbp-spmenu h3 {
+	color: black; /*cor do título do slide(h3)*/
+	font-size: 15px;
+    font-weight: normal;
+    padding-left: 15px;
+    
+	margin: 0;
+
+	background: cadetblue;/*fundo do título do slide(h3)*/
+}
+
+.cbp-spmenu a { /**/
+	display:block;
+	color: black; /*fundo de cada item do slide (anchor)*/
+    background: cadetblue;/*fundo de cada item do slide(anchor)*/
+	font-size: 15px;
+	font-weight: normal;
+    border:0;
+}
+
+.cbp-spmenu a:hover {
+	background: #258ecd; /*deixar ficar - fundo de cada item ao passar por cima*/
+}
+
+.cbp-spmenu a:active {
+	background: #afdefa;
+	color: #47a3da; /*deixar ficar - fundo de cada item ao clickar*/
+}
+
+/* Orientation-dependent styles for the content of the menu */
+
+.cbp-spmenu-vertical {
+	width: 150px;
+	height: 100%;
+	top: 0;
+	z-index: 1000;
+}
+
+.cbp-spmenu-vertical a {
+	border-bottom: 1px solid #258ecd;/*border do slide (anchor) */
+	padding: 0;
+}
+
+.cbp-spmenu-horizontal {
+	width: 100%;
+	height: 150px;
+	left: 0px;
+	z-index: 1000;
+	overflow: hidden;
+}
+
+.cbp-spmenu-horizontal h3 {
+	height: 100%;
+	width: 20%;
+	float: left;
+}
+
+.cbp-spmenu-horizontal a {
+	float: left;
+	width: 5%;
+	padding-left: 15px;
+	border-left: 1px solid #258ecd;
+}
+
+/* Vertical menu that slides from the left or right */
+
+.cbp-spmenu-left {
+	left: -240px;
+}
+
+.cbp-spmenu-right {
+	right: -240px;
+}
+
+.cbp-spmenu-left.cbp-spmenu-open {
+	left: 0px;
+}
+
+.cbp-spmenu-right.cbp-spmenu-open {
+	right: 0px;
+}
+
+/* Horizontal menu that slides from the top or bottom */
+
+.cbp-spmenu-top {
+	top: -150px;
+}
+
+.cbp-spmenu-bottom {
+	bottom: -150px;
+}
+
+.cbp-spmenu-top.cbp-spmenu-open {
+	top: 0px;
+}
+
+.cbp-spmenu-bottom.cbp-spmenu-open {
+	bottom: 0px;
+}
+
+/* Push classes applied to the body */
+
+.cbp-spmenu-push {
+	overflow-x: hidden;
+	position: relative;
+	left: 0;
+}
+
+.cbp-spmenu-push-toright {
+	left: 240px;
+}
+
+.cbp-spmenu-push-toleft {
+	left: -240px;
+}
+
+/* Transitions */
+
+.cbp-spmenu,
+.cbp-spmenu-push {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+/* Example media queries */
+
+@media screen and (max-width: 55.1875em){
+
+	.cbp-spmenu-horizontal {
+		font-size: 75%;
+		height: 110px;
+	}
+
+	.cbp-spmenu-top {
+		top: -110px;
+	}
+
+	.cbp-spmenu-bottom {
+		bottom: -110px;
+	}
+
+}
+
+@media screen and (max-height: 26.375em){
+
+	.cbp-spmenu-vertical {
+		font-size: 90%;
+		width: 190px;
+	}
+
+	.cbp-spmenu-left,
+	.cbp-spmenu-push-toleft {
+		left: -190px;
+	}
+
+	.cbp-spmenu-right {
+		right: -190px;
+	}
+
+	.cbp-spmenu-push-toright {
+		left: 190px;
+	}
+}
+
+#dia00{
+    font-size:16px;
+}
+
+#dia0{
+    font-size:16px;
+}
+
+
+.cabecalho{
+     background-color: black;
+     color:white;
+     font-weight:bold;
+     
+   border-style:solid;
+   border:10px;
+   border-color: black;
+
+
+    position: relative;
+   float: left;
+   left:5px;
+   width: 60px;
+   height: 15px;
+  
+     font-weight:bold;
+}
+
+#cabecalho {
+    position: relative;
+    float: left;
+    left: 5px;
+    width: 25px;
+    height: 15px;
+     border-style:solid;
+   border:10px;
+    border-color: black;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+}
+
+.coluna{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 25px;
+   height: 15px;
+  border-color: black;
+     font-weight:bold;
+    background-color: black;
+     color:white;
+}
+
+
+
+
+.colr{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 20px;
+   height: 15px;
+  
+     font-weight:bold;
+  
+     color:black;
+  
+}
+
+.cold{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 40px;
+   height: 15px;
+  
+     font-weight:bold;
+   
+     color:black;
+  
+}
+
+#coluna{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 25px;
+   height: 15px;
+  border-color: black;
+     font-weight:bold;
+    background-color: black;
+     color:white;
+}
+
+
+
+
+#colr{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 20px;
+   height: 15px;
+  
+     font-weight:bold;
+   background-color: black;
+     color:white;
+  
+}
+
+#cold{
+     position: relative;
+   float: left;
+   left: 5px;
+   width: 40px;
+   height: 15px;
+   background-color: black;
+     font-weight:bold;
+   
+     color:white;
+  
+}
+.wrapper{
+   position: relative;
+   float: left;
+   left: 0px;
+   width: 1335px;
+   /*margin-bottom:5px;*/
+   text-align:center;
+  font-size: 12px;
+  border-bottom-color:blue;
+}
+
+
+.linha1{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+  
+    color:black;
+ }
+
+.line1:hover{
+   background-color:lightblue;
+}
+.line2:hover{
+   background-color:lightblue;
+}
+.line3:hover{
+   background-color:lightblue;
+}
+.line4:hover{
+   background-color:lightblue;
+}
+.line5:hover{
+   background-color:lightblue;
+}
+.line6:hover{
+   background-color:lightblue;
+}
+.line7:hover{
+   background-color:lightblue;
+}
+.line8:hover{
+   background-color:lightblue;
+}
+.linha2{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+  
+    color:black;
+    
+}
+.linha3{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+  
+    color:black;
+    
+}
+.linha4{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+   
+    color:black;
+    
+}
+.linha5{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+  
+    color:black;
+    
+}
+.linha6{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+
+    color:black;
+    
+}
+.linha7{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+ 
+    color:black;
+    
+}
+.linha8{
+   position: relative;
+   float: left;
+   left: 5px;
+   width: 60px;
+   height: 15px;
+  
+    color:black;
+    
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="8dfb2d939.hostnd" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\marlene\\documents\\visual\ studio\ 2015\\Projects\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\marlene\\documents\\visual\ studio\ 2015\\Projects\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-WebAvi-20150924102428.mdf;Initial Catalog=aspnet-WebAvi-20150924102428;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\marlene\\documents\\visual\ studio\ 2015\\Projects\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="bd-Web.config Connection String" description="bd Connection String used in web.config by the application to access the database." value="Data Source=DesktopM;Initial Catalog=bd;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\marlene\\documents\\visual\ studio\ 2015\\Projects\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bd']/@connectionString" />
+  </parameter>
+  <parameter name="erabd-Web.config Connection String" description="erabd Connection String used in web.config by the application to access the database." value="Data Source=(LocalDb)\DesktopM;AttachDbFilename=|DataDirectory|\bd.mdf;Initial Catalog=bd;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\marlene\\documents\\visual\ studio\ 2015\\Projects\\WebAvi\\WebAvi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='erabd']/@connectionString" />
+  </parameter>
+</parameters>

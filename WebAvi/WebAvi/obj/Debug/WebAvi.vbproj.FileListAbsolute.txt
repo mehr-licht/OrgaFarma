@@ -1,0 +1,229 @@
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.vbprojResolveAssemblyReference.cache
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.Resources.resources
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.vbproj.GenerateResource.Cache
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\csc.exe
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\vbc.exe
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\VBCSCompiler.exe
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\WebAvi.dll.config
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\WebAvi.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\WebAvi.pdb
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\WebAvi.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Antlr3.Runtime.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\EntityFramework.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\EntityFramework.SqlServer.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Newtonsoft.Json.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Owin.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Helpers.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Mvc.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Optimization.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Razor.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.Deployment.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.Razor.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\WebGrease.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Helpers.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Mvc.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Optimization.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Razor.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.Deployment.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.WebPages.Razor.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Antlr3.Runtime.pdb
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Newtonsoft.Json.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\EntityFramework.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\EntityFramework.SqlServer.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.dll
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.xml
+c:\users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\obj\Debug\WebAvi.pdb
+C:\Users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Abstractions.dll
+C:\Users\marlene\documents\visual studio 2015\Projects\WebAvi\WebAvi\bin\System.Web.Routing.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\csc.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\vbc.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\VBCSCompiler.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\WebAvi.dll.config
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\WebAvi.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\WebAvi.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\WebAvi.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Antlr3.Runtime.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\EntityFramework.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\EntityFramework.SqlServer.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Newtonsoft.Json.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Abstractions.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Helpers.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Mvc.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Optimization.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Razor.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Routing.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.Razor.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\WebGrease.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Newtonsoft.Json.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Helpers.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Mvc.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Optimization.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.Razor.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\System.Web.WebPages.Razor.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Antlr3.Runtime.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\EntityFramework.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\EntityFramework.SqlServer.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.vbprojResolveAssemblyReference.cache
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.Resources.resources
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.vbproj.GenerateResource.Cache
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\WebAvi (antes de acrescentar ports)\WebAvi\obj\Debug\WebAvi.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\csc.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\vbc.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\VBCSCompiler.exe
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\WebAvi.dll.config
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\WebAvi.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\WebAvi.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\WebAvi.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Antlr3.Runtime.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\EntityFramework.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\EntityFramework.SqlServer.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Newtonsoft.Json.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Owin.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Abstractions.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Helpers.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Mvc.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Optimization.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Razor.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Routing.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.Razor.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\WebGrease.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Newtonsoft.Json.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Helpers.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Mvc.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Optimization.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.Razor.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\System.Web.WebPages.Razor.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Antlr3.Runtime.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\EntityFramework.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\EntityFramework.SqlServer.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.vbprojResolveAssemblyReference.cache
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.Resources.resources
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.vbproj.GenerateResource.Cache
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\obj\Debug\WebAvi.pdb
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\log4net.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\PayPal.dll
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\log4net.xml
+C:\Users\marlene\Documents\Visual Studio 2015\Projects\para azure\WebAvi\WebAvi\bin\PayPal.xml
