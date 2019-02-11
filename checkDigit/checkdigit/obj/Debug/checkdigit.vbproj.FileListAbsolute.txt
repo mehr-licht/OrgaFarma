@@ -1,0 +1,20 @@
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\checkdigit.vbproj.GenerateResource.Cache
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\luis\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\bin\Debug\checkdigit.exe.config
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\bin\Debug\checkdigit.exe
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\bin\Debug\checkdigit.pdb
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\bin\Debug\checkdigit.xml
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\WindowsApplication1.Form1.resources
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\WindowsApplication1.Resources.resources
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\checkdigit.vbproj.GenerateResource.Cache
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\checkdigit.exe
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\checkdigit.xml
+D:\orgafarma\FarmOrg em constante mudança\checkdigit\checkdigit\obj\Debug\checkdigit.pdb
