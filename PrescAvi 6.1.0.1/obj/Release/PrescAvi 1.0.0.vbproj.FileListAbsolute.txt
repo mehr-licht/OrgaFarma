@@ -1,0 +1,55 @@
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\escolha.mdb
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.exe.config
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.exe.manifest
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.application
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.exe
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.pdb
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.xml
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.bd.resources
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.Form1.resources
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.Resources.resources
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.vbproj.GenerateResource.Cache
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.TrustInfo.xml
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.exe.manifest
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.application
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.exe
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.xml
+C:\Users\luis\Desktop\FarmOrg\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.pdb
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\bin\Release\PrescAvi 1.0.0.exe.config
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.exe
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.xml
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.pdb
+i:\INC\escolha.mdb
+i:\INC\PrescAvi 1.0.0.exe.config
+i:\INC\PrescAvi 1.0.0.exe.manifest
+i:\INC\PrescAvi 1.0.0.application
+i:\INC\PrescAvi 1.0.0.exe
+i:\INC\PrescAvi 1.0.0.pdb
+i:\INC\PrescAvi 1.0.0.xml
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.bd.resources
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.Form1.resources
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.Resources.resources
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.vbproj.GenerateResource.Cache
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.TrustInfo.xml
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.exe.manifest
+C:\Users\luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi 1.0.0.application
+D:\GRAVAR NO Portatil\escolha.mdb
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.exe.config
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.exe.manifest
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.application
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.exe
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.pdb
+D:\GRAVAR NO Portatil\PrescAvi 1.0.0.xml
+D:\Portatil\PrescAvi 1.0.0.exe.config
+D:\Portatil\escolha.mdb
+D:\Portatil\PrescAvi 1.0.0.exe.manifest
+D:\Portatil\PrescAvi 1.0.0.application
+D:\Portatil\PrescAvi 1.0.0.exe
+D:\Portatil\PrescAvi 1.0.0.pdb
+D:\Portatil\PrescAvi 1.0.0.xml
+D:\Portatil\basededados.mdb
+C:\Users\Luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.EC.resources
+C:\Users\Luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.EP.resources
+C:\Users\Luis\Desktop\FarmOrg em constante mudança\PrescAvi\PrescAvi 1.0.0\PrescAvi 1.0.0\obj\Release\PrescAvi_1._0._0.Form3.resources

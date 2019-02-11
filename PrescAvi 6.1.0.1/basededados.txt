@@ -1,0 +1,3 @@
+a base de dados foi trabalhosamente importada do Infarmed
+
+a versão que acompanha o PrescAvi 1.0.0 é de 28/07/2009

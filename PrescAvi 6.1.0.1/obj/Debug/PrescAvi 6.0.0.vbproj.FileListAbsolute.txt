@@ -1,0 +1,55 @@
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe.config
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\basededados.mdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\pvp.mdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.application
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.pdb
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\bin\Debug\PrescAvi 6.0.0.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.vbprojResolveAssemblyReference.cache
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.abrir.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.bd.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form2.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.cnpem.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.EC.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.EP.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form1.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Form3.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.FormNoCode.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.Resources.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi_1._0._0.repovoar.resources
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.vbproj.GenerateResource.Cache
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.TrustInfo.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.exe.manifest
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.application
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.exe
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.xml
+D:\orgafarma\FarmOrg em constante mudança\PrescAvi 1.0.0\obj\Debug\PrescAvi 6.0.0.pdb
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.vbprojAssemblyReference.cache
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.abrir.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.bd.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.Form2.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.cnpem.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.EC.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.EP.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.Form1.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.Form3.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.FormNoCode.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.Resources.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi_1._0._0.repovoar.resources
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.vbproj.GenerateResource.cache
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.vbproj.CoreCompileInputs.cache
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.TrustInfo.xml
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.exe
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.xml
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.pdb
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.exe.manifest
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\basededados.mdb
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\pvp.mdb
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.exe.config
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.exe.manifest
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.application
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.exe
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.pdb
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\bin\Debug\PrescAvi 6.0.0.xml
+E:\backup\PrescAvi 6.1.0.1 (último funcional - antes de retirar excessos e remodelar)\obj\Debug\PrescAvi 6.0.0.application

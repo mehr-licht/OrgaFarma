@@ -1,0 +1,1388 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrescAvi1.0.0
+</name>
+</assembly>
+<members>
+<member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1.infarmedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.infarmedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.basededadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.basededadosDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.dciDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.doseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.dciRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.doseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.dciRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.doseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.dciTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.doseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet9)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet9TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet20,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet20,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet20,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet20)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet20TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10.dc1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10.dc1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10.dc1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.dc1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet10,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet10)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet10TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13.dc1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13.dc1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13.dc1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.dc1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet13,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet13)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet13TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet16,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet16,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet16,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet16)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet16TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet19,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet19,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet19,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet19)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet19TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:PrescAvi_1._0._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PrescAvi_1._0._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2.doseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2.doseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2.doseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.doseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5.dc1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5.dc1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5.dc1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.dc1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet8)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet8TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet.infarmedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.infarmedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.basededadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.basededadosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.basededadosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12.dc1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12.dc1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12.dc1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.dc1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet12,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet12)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet12TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet15,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet15,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet15,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet15)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet15TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet18,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet18,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet18,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet18)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet18TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet22,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet22,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet22,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet22)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet22TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7.doseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7.doseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7.doseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.doseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21.labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21.labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21.labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.labTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet21,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet21,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet21,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet21)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet21TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11.dc1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11.dc1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11.dc1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.dc1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet11,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet11)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet11TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14.formaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14.formaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14.formaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.formaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet14,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet14,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet14,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet14)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet14TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17.qtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17.qtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17.qtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.qtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.UpdateUpdatedRows(PrescAvi_1._0._0.escolhaDataSet17,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.UpdateInsertedRows(PrescAvi_1._0._0.escolhaDataSet17,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.UpdateDeletedRows(PrescAvi_1._0._0.escolhaDataSet17,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.UpdateAll(PrescAvi_1._0._0.escolhaDataSet17)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrescAvi_1._0._0.escolhaDataSet17TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
